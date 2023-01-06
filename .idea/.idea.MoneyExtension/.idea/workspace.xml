@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eb5acc3-fce5-4283-b318-1ab905bdaf51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MoneyExtension/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MoneyExtension/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MoneyExtension/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MoneyExtension/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.MoneyExtension/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoneyExtension/MoneyExtension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoneyExtension/MoneyExtension.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoneyExtension/MoneyExtension.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MoneyExtension/MoneyExtension.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2JxljYDPV5DyCAFKCZnwWkPh5U6" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/home/alexandre/.config/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
+      "/home/alexandre/.config/JetBrains/Rider2022.3/resharper-host/SourcesCache",
+      "/home/alexandre/.local/share/Symbols/src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
